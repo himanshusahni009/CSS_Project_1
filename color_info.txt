@@ -1,0 +1,16 @@
+green color = #4CAF50;
+header color (grey) = #f1f1f1;
+footer color (grey) = #f1f1f1;
+dark grey color = #616161;
+light blue background-color: #d4edda;
+light grey color on hover = #cccccc;
+focus or hover dark green color = #46a049;
+font-family : Arial, Helvetica, sans-serif;
+
+light blue footer background-color: #548abd;
+
+light header background-color: #2db5b9;
+
+side nav active2 color: #4CAF50;
+
+table header color: #ffff00; //yellow
